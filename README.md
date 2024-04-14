@@ -1,19 +1,9 @@
-<h2 align="center">Hi, I'm Gabriel👋 | Fullstack Web Developer</h2>
+<h1 align="center">Fullstack Web Developer 💻🚀</h1>
 
-###
+<p>Hi, my name is Gabriel. I am a fullstack web developer who is passionate about my work and constantly looking for new knowledge. My main goal is to help improve and fix code related issues. With a strong understanding of current web technologies, I have the ability to work on both the front-end and back-end sides of an application.</p>
+
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GabrielCastroV&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vue-dark&hide_border=false" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=GabrielCastroV&locale=en&mode=daily&theme=vue-dark&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-</div>
-
-###
-
-<img align="right" height="150" src="https://i.pinimg.com/originals/98/8d/6e/988d6e82dd72311592dbe2c7af57cd81.gif"  />
-
-###
-
-<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
@@ -42,7 +32,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=express" height="30" alt="express logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
+  <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
   <img width="12" />
@@ -51,7 +41,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://www.linkedin.com/in/gabrielcastrov/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
@@ -71,16 +61,16 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/GabrielCastroV/GabrielCastroV/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
   <a href="https://open.spotify.com/user/1cixosvle3aiuh3sxvgsrlj2j">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=1cixosvle3aiuh3sxvgsrlj2j&count=5&unique=true" alt="Spotify recently played"  />
   </a>
+  <img align="center" height="280" src="https://i.pinimg.com/originals/98/8d/6e/988d6e82dd72311592dbe2c7af57cd81.gif"  />
 </div>
 
 ###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GabrielCastroV&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vue-dark&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=GabrielCastroV&locale=en&mode=daily&theme=vue-dark&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+</div>
