@@ -6,9 +6,9 @@
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo" title="TypeScript" />
   <img width="12" />
-  <img src="https://avatars.githubusercontent.com/u/44914786?s=200&v=4" height="30" alt="astro logo" title="Astro Build" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo" title="Next.js" />
+  <img width="12" />
+  <img src="https://avatars.githubusercontent.com/u/44914786?s=200&v=4" height="30" alt="astro logo" title="Astro Build" />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="30" alt="tailwindcss logo" title="Tailwind CSS" />
   <img width="12" />
